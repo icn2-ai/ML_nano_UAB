@@ -8,6 +8,8 @@ Important dates
 
 :date:  `15-09-2026` Introduction to machine learning for nanoscience and nanomaterials
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/icn2-ai/ML_nano_UAB/blob/main/Intro_ML_nanoUAB.ipynb)
+
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
